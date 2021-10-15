@@ -42,7 +42,6 @@ For the dates related feature, we use ONE-HOT vectors for the day of month and m
 of the year. For the day of the week, we use binary categories, 0 for weekdays and 1 for
 weekends.
 
-The total data points are 21293, the number of data available before the COVID pan-
-demic is 5901.
+The total data points are 21293, the number of data available before the COVID pandemic is 5901.
 
 
