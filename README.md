@@ -44,4 +44,7 @@ weekends.
 
 The total data points are 21293, the number of data available before the COVID pandemic is 5901.
 
+## ACKNOWLEDGMENTS
+I would like to acknowledge continuous support for this project from Professor Bruce
+Hellinga, Civil and Environmental Engineering Department,Waterloo University (bhellinga@uwaterloo.ca).
 
