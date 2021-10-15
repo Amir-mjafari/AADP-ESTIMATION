@@ -6,7 +6,7 @@
 ## PROJECT SUMMARY
 We introduced ML methods based on site characteristics (e.g., nearby land use), weather conditions, date, and short-term counts (STC) to estimate Daily Pedestrian Traffic. The data was available for 94 stations (intersections) in Arizona, US, with an average of 223 continuous counting days at each intersection for passing pedestrians. A Neural Network Model trained by Keras library had an R-squared of 0.82, more explanatory than the Linear Regression Model with an R-squared of 0.71.
 
-## PROJECT DESCRIPTIONS
+## PROJECT DESCRIPTION
 Annual average daily pedestrians (AADP) are the average daily measure of pedestrians'
 total volume on a walkway segment over a year. AADP is one of the critical attributes that
 explain the collision rate. Although collecting pedestrian count data every day in a year
