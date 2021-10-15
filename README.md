@@ -1,0 +1,2 @@
+# AADP-ESTIMATION
+We introduced ML methods based on site characteristics (e.g., nearby land use), weather conditions, date, and short-term counts (STC) to estimate Daily Pedestrian Traffic. The data was available for 94 stations (intersections) in Arizona, US, with an average of 223 continuous counting days at each intersection for passing pedestrians. A Neural Network Model trained by Keras library had an R-squared of 0.82, more explanatory than the Linear Regression Model with an R-squared of 0.71.
